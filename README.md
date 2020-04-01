@@ -12,9 +12,6 @@
 
 ### __General Use Databases__
 
-<br/>
-
-
 #### 1. [Current General Use Database](https://yield10bio.shinyapps.io/databasehub/)
 
 #### __*Description:*__ 
