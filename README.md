@@ -20,9 +20,6 @@ shinyhub
 #### __*Description:*__ 
 This is the __current__ master database. Current databases available through the master database include:
 
-<br/>
-
-
     a. SeedDB
       List of all lab generated seeds including information about location, generation, and construct IDs.
 
