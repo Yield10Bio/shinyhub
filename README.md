@@ -28,9 +28,6 @@ This is the __current__ master database. Current databases available through the
 
 
 <br/>
-<br/>
-
-
 
 
 #### 2. [Working example of an 'Editable' Master Database](https://yield10bio.shinyapps.io/editdb/)
@@ -53,7 +50,8 @@ This is the __current__ master database. Current databases available through the
       c. Data summaries
       d. Raw data files
       e. Annotation files
-  
+<br/>
+
 #### 2. [Soybean Gene Expression Database](https://yield10bio.shinyapps.io/soybeange/)
       a. Internal field trial RNAseq experiment (Carlisle vs Wainfleet Field Trials)
   
