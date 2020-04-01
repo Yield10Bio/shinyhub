@@ -23,10 +23,10 @@ This is the __current__ master database. Current databases available through the
 <br/>
 
 
-#####   a. __SeedDB__
+    a. SeedDB
       List of all lab generated seeds including information about location, generation, and construct IDs.
 
-#####   b. __Gene Expression DB__
+    b. Gene Expression DB
       Currently hosts the Kagale et al, 2014 *Camelina sativa* gene expression data
 
 
