@@ -1,15 +1,14 @@
 shinyhub  
-======  
+  
 <br/>
-
 <br/>
 
 ### __Welcome to the Yield10Bio Shiny App Hub__
 #### *Repository for all Y10Bio Shiny Databases/tools*
-<br/>
 
 <br/>
-======
+<br/>
+
 
 ### __General Use Databases__
 
@@ -17,8 +16,6 @@ shinyhub
 
 
 #### 1. [Current General Use Database](https://yield10bio.shinyapps.io/databasehub/)
-
-
 
 #### __*Description:*__ 
 This is the __current__ master database. Current databases available through the master database include:
@@ -44,10 +41,6 @@ This is the __current__ master database. Current databases available through the
 
 #### 2. [Working example of an 'Editable' Master Database](https://yield10bio.shinyapps.io/editdb/)
 
-<br/>
-
-
-
 #### __*Description:*__ 
      This is a sample database working directly off of Y10Bio AWS S3 bucket. 
      Several columns witin this database are edittable by double clicking them and entering a new value. 
@@ -61,14 +54,14 @@ This is the __current__ master database. Current databases available through the
 ### Gene expression resources/tools
 
 #### 1. [*Camelina sativa* External Gene Expression Database](https://yield10bio.shinyapps.io/camelinage/)
-  a. Kagale et al, 2014 *Camelina sativa* gene expression data
-  b. Correlation plots
-  c. Data summaries
-  d. Raw data files
-  e. Annotation files
+      a. Kagale et al, 2014 *Camelina sativa* gene expression data
+      b. Correlation plots
+      c. Data summaries
+      d. Raw data files
+      e. Annotation files
   
 #### 2. [Soybean Gene Expression Database](https://yield10bio.shinyapps.io/soybeange/)
-  a. Internal field trial RNAseq experiment (Carlisle vs Wainfleet Field Trials)
+      a. Internal field trial RNAseq experiment (Carlisle vs Wainfleet Field Trials)
   
   
 
