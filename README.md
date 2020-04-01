@@ -37,7 +37,7 @@ This is the __current__ master database. Current databases available through the
      Several columns witin this database are edittable by double clicking them and entering a new value. 
      This will be saved directly to the database permanently. 
 
-#####   Additonally, large additions can be uploaded and appended to this database (requires all column headers to match).
+######   Additonally, large additions can be uploaded and appended to this database (requires all column headers to match).
 
 <br/>
 <br/>
