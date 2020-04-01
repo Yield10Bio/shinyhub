@@ -1,16 +1,17 @@
-# shinyhub  
-  
-______________________________________________________________________________________________________________________________
-\
+shinyhub  
+======  
+<br/>
+
+<br/>
+
 ### __Welcome to the Yield10Bio Shiny App Hub__
 #### *Repository for all Y10Bio Shiny Databases/tools*
-\
-_____________________________________________________________________________________________________________________________
-\
-\
+<br/>
+
+<br/>
+======
+
 ### __General Use Databases__
-
-
 
 
 
@@ -33,7 +34,8 @@ Currently hosts the Kagale et al, 2014 *Camelina sativa* gene expression data
 ######   All available data is searchable, can be filtered by any column, and is downloadable as a CSV/Excel file
 
 
-
+<br/>
+<br/>
 
 
 
@@ -48,4 +50,8 @@ This is a sample database working directly off of Y10Bio AWS S3 bucket. Several 
 
 #####   Additonally, large additions can be uploaded and appended to this database (requires all column headers to match).
 
+<br/>
+<br/>
+<br/>
+### __Gene expression resources/tools__
 
